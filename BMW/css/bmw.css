@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: o;
+    font-family: "Poppins", sans-serif;
+}
+#firstpage{
+    width:100% ;
+    height: 100vh;
+    background-image:url(/file/BMW-iX1-P90465712_highRes-2-scaled-e1654066276897.avif); 
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 30px;
+    
+    
+}
+
+.logo{
+    width: 10%;
+    margin: 30px;
+    height: fit-content;
+    cursor: pointer;
+
+       
+}
+.icon{
+    float: right;
+    display: flex;
+    cursor: pointer;
+    
+}
+.icon a{
+    margin: 30px;
+    color: white;    
+}
+.firstpage2{
+    width:100% ;
+    height: 100vh;
+    margin-bottom:  15px;;
+    padding-top: 90px;
+    padding-left: 10%;
+    position: absolute;
+    text-align: left;
+    background-color:transparent;
+    color: white; 
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 2px;
+
+}
+.firstpage2 a{
+    border: none;
+    border-color: blue;
+    color: white;
+    margin: 10px;
+    padding: 10px 40px;
+    background-color: blue;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 600;
+}
+#secondpage{
+    width:100% ;
+    height: 100vh;
+    background-image:url(/file/bmw-x5-1.jpg); 
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 30px;   
+    
+}
+.secondpage1{
+    width:100% ;
+    height: 100vh;
+    margin-top:24%;
+    padding-top: 80px;
+    padding-left: 10%;
+    position: absolute;
+    text-align: left;
+    background-color:transparent;
+    color: white; 
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+
+}
+.secondpage1 a{
+    border: none;
+    border-color: blue;
+    color: white;
+    margin: 5px;
+    padding: 10px 30px;
+    background-color: blue;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 600;
+}
+#thirdpage {
+    width: 100%;
+    height: 350px;
+    background-color: white;
+}
+#thirdpage1{
+    text-align: center;
+
+}
+#thirdpage1 h5{
+    color: gray;
+    letter-spacing: 2px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+#thirdpage1 h1{
+    font-weight: 200;
+    letter-spacing: 2px;
+}
+
+#thirdpage2 img{
+    width: 6%;
+    padding: 70px 125px 5px 145px;   
+    
+}
+#thirdpage3{
+    display: flex; 
+    margin-top: 30px;
+     
+}
+#thirdpage3 p{
+    padding: 5px 90px 5px 122px;
+    font-weight: 200;
+}
+#thirdpage4{
+    display: flex;
+    justify-content: space-between; 
+    padding: 5px 120px 5px 120px;
+    
+}
+#thirdpage4 button{
+    border: 2px solid;
+    padding: 15px 0px;
+    background-color: transparent;
+}
+#thirdpage4 a{
+    padding: 5px 40px;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+    
+}
+#fourthpage{
+    margin: 10px;
+    widows: 100%;
+    height: 80vh;  
+    text-align: center;  
+    background-color: blueviolet;
+    background-image: url(/file/IMG20221011104710I14543U2349.jpg);
+    background-size: 100% 100%;
+    margin-bottom: 30px;
+}
+#fourthpage h1{
+    color:white;
+    font-weight: 200;
+    padding: 150px 200px 10px 0px ;
+   
+}
+#fourthpage a{
+    font-weight: 600;
+    text-decoration: none;
+    background-color: transparent;
+    color: white;
+    
+    
+}
+#fourthpage button{
+    border: 2px solid;
+    padding: 15px 20px;
+    border-color: white;
+    border-radius: 10px;
+    background-color: transparent;
+    margin:15px 400px 5px 20px ;
+}
+#footerfull{
+    display: grid;
+    height: auto;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+#footer {
+    margin-top: 25px;
+    display: flex;
+    height: auto;
+    width: 100%;
+    background-color: whitesmoke;
+}
+.h{
+    color: black;
+    width: fit-content;
+    margin: 60px 20px 20px 50px;
+    font-weight: 200;
+    font-size: 10px;
+}
+
+
+.contact{
+    color: black;
+    display: grid;
+    text-decoration: none;
+    font-size: 13px;
+    margin: 20px 20px 20px 50px;
+    font-weight: 400;
+}
+
+
+#bottom{
+    border-top: 1px solid;
+    color: black;
+    margin-top: 30px;
+    padding: 30px;
+    display:flex;
+    justify-content:space-between;
+    height: auto;
+    width: 90%;
+    font-size: 13px;
+}
+#bottom a{
+    text-decoration: none;
+    color: black;
+}
+#bottom a i{
+    font-size: 20px;
+    color: antiquewhite;
+    }
+
+
+
